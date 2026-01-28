@@ -1,7 +1,1 @@
-# cervical-cancer-risk-modeling
-Cervical Cancer datset, cleans and prepares the data, trains an interpretable machine learning model, evaluates its performance on unseen data, and analyzes results with a focus on transparency and limitations.
-Research and educational modeling only
-After training, the model generates predictions using the testing dataset.
-These predictions simulate how the model would behave on new, unseen data.
-Training set – used to train the model
-Testing set – used to evaluate performance
+This project uses a cervical cancer dataset to clean and prepare the data, then trains a simple, interpretable machine learning model. The model is tested on data it hasn’t seen before to see how it would behave in real situations. The results are analyzed with an emphasis on transparency, limitations, and responsible use. This work is for research and educational purposes only, not medical decision-making. The dataset is split into a training set, which the model learns from, and a testing set, which is used to evaluate its performance.
